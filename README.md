@@ -10,6 +10,7 @@ Entrega da lista 03 do prof. Daniel. 26/03/26
 ➜ Prints: 
 ![](https://github.com/marzfly/una-ihcux-lista03/blob/main/print04.png)
 ![](https://github.com/marzfly/una-ihcux-lista03/blob/main/print05.png)
+![](https://github.com/marzfly/una-ihcux-lista03/blob/main/print06.png)
 
 ## 🏎 1° HEURÍSTICA DE NIELSEN
 O sistema informa o status de carregamento. Isso se alinha à primeira heurística de Nielsen, que afirma que o sistema deve sempre manter o usuário informado sobre o que está acontecendo de forma clara e entendível. 
